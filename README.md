@@ -1,3 +1,5 @@
+# DO NOT USE THIS FORK; IT'S A BACKUP OF THE ORIGINAL REPO AND WILL NOT BE MAINTAINED
+
 <p align="center">
   <img
     alt="RxBluetoothKit library logo"
@@ -11,7 +13,7 @@
 [![Platform](https://img.shields.io/cocoapods/p/RxBluetoothKit.svg?style=flat)](http://cocoapods.org/pods/RxBluetoothKit)
 [![Carthage Compatible](https://img.shields.io/badge/Carthage-compatible-4BC51D.svg?style=flat)](https://github.com/Carthage/Carthage)
 
-RxBluetoothKit is a Bluetooth library that makes interaction with BLE devices much more pleasant. It's backed by RxSwift and CoreBluetooth and it provides nice API, for both Central and Peripheral modes. All to work with and make your code more readable, reliable and easier to maintain. 
+RxBluetoothKit is a Bluetooth library that makes interaction with BLE devices much more pleasant. It's backed by RxSwift and CoreBluetooth and it provides nice API, for both Central and Peripheral modes. All to work with and make your code more readable, reliable and easier to maintain.
 
 Here is a sneak peek of what you can do with RxBluetoothKit:
 ```swift

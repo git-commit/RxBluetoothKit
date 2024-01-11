@@ -1,3 +1,7 @@
+# 7.1.0
+
+- Change Unimpelemented.swift to support the newest Swift and XCode version
+
 # 7.0.0
 
 - Updated RxSwift version to 6.0 (#392)
